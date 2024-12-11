@@ -6,7 +6,7 @@ import { faFacebook, faTwitter, faInstagram, faLinkedin } from '@fortawesome/fre
 
 function Footer() {
   return (
-    <footer className="bg-gradient-to-r from-orange-500 to-orange-800 pt-12 pb-8">
+    <footer className="bg-gradient-to-r from-purple-500 to-purple-800 pt-12 pb-8">
       {/* Footer Links */}
       <div className="container mx-auto px-6 lg:px-12 mt-6 pt-8 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8">
         {/* About Us */}

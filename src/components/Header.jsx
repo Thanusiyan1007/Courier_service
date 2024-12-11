@@ -9,7 +9,7 @@ function Header() {
             <h2 className='text-5xl sm:text-5xl md:text-[82px] inline-block max-w-3xl font-semibold pt-20'>Welcome to Kezi Reliable Deliveries, Anytime, Anywhere!</h2>
             <div className='space-x-6 mt-16'>
                 <a href="#Service" className='border border-white px-8 py-3 rounded'>Services</a>
-                <a href="#Contact" className='bg-orange-500 px-8 py-3 rounded'>Contact Us</a>
+                <a href="#Contact" className='bg-purple-500 px-8 py-3 rounded'>Contact Us</a>
             </div>
         </div>
 

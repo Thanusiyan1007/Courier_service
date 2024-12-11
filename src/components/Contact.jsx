@@ -112,7 +112,7 @@ function Contact() {
                             {/* Submit Button */}
                             <button
                                 type="submit"
-                                className="w-full py-2 bg-orange-500 text-sm text-white rounded-md font-medium hover:bg-primaryDark transition ease-in-out duration-200"
+                                className="w-full py-2 bg-purple-500 text-sm text-white rounded-md font-medium hover:bg-primaryDark transition ease-in-out duration-200"
                             >
                                 Send Message
                             </button>

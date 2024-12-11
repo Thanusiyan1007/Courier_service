@@ -9,7 +9,7 @@ const About = () => {
     >
       {/* Title Section */}
       <h1 className="text-2xl sm:text-4xl font-bold mb-4 text-center">
-        About <span className="underline underline-offset-4 decoration-orange-500">Our Brand</span>
+        About <span className="underline underline-offset-4 decoration-purple-500">Our Brand</span>
       </h1>
       <p className="text-gray-500 max-w-2xl text-center mb-8">
         Kezi ensures fast, secure, and reliable deliveries worldwide.
@@ -56,7 +56,7 @@ const About = () => {
           </p>
 
           {/* Call-to-Action Button */}
-          <button className="bg-orange-500 text-white px-6 py-2 rounded hover:bg-orange-600 transition-all">
+          <button className="bg-purple-500 text-white px-6 py-2 rounded hover:bg-orange-600 transition-all">
             Learn More
           </button>
         </div>
