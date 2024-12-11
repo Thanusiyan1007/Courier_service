@@ -33,7 +33,7 @@ function Footer() {
 
         {/* Resources */}
         <div>
-          <h3 className="text-white font-semibold text-lg mb-4 text-2xl tracking-wide">Resources</h3>
+          <h3 className="text-white font-semibold  mb-4 text-2xl tracking-wide">Resources</h3>
           <ul className="text-gray-300 text-sm space-y-2">
             <li>
               <a href="#faq" className="hover:text-teal-100 transition duration-300 ease-in-out transform hover:scale-105">
@@ -55,7 +55,7 @@ function Footer() {
 
         {/* Contact */}
         <div>
-          <h3 className="text-white font-semibold text-lg mb-4 text-2xl tracking-wide">Contact</h3>
+          <h3 className="text-white font-semibold  mb-4 text-2xl tracking-wide">Contact</h3>
           <ul className="text-gray-300 text-sm space-y-2">
             <li>Address: 156 SEA STREET, NEGOMBO</li>
             <li>Phone 1: 0766407990</li>
@@ -66,7 +66,7 @@ function Footer() {
 
         {/* Social Media */}
         <div>
-          <h3 className="text-white font-semibold text-lg mb-4 text-2xl tracking-wide">Follow Us</h3>
+          <h3 className="text-white font-semibold  mb-4 text-2xl tracking-wide">Follow Us</h3>
           <div className="flex gap-6">
             <a
               href="https://www.facebook.com/profile.php?id=100054259882123&mibextid=ZbWKwL"
