@@ -42,7 +42,7 @@ const Service = () => {
       id="Services"
     >
       <h1 className="text-3xl sm:text-4xl font-extrabold mb-6 text-center text-gray-800">
-        Our <span className="underline underline-offset-4 decoration-orange-500">Services</span>
+        Our <span className="underline underline-offset-4 decoration-purple-500">Services</span>
       </h1>
       <p className="text-center text-gray-600 mb-10 max-w-2xl mx-auto">
         Explore a range of reliable and efficient delivery solutions tailored to meet your needs.
